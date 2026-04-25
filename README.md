@@ -32,9 +32,9 @@ A Python-based system to manage hospital patients, admissions, billing, and anal
 
 ## Outputs
 
-* 📊 Ward Occupancy (Bar Chart)
-* 🥧 Patient Distribution (Pie Chart)
-* 📈 Peak Admissions (Line Graph)
+* Ward Occupancy (Bar Chart)
+* Patient Distribution (Pie Chart)
+* Peak Admissions (Line Graph)
 
 ## Project Structure
 
